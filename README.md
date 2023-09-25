@@ -1,6 +1,5 @@
 # chess
 Santranç tahtası puan hesabı
-Santranç tahtası puan hesabı
 
 t anında santranç tahtasındaki tarafların puan hesaplamasını yapar
 
